@@ -11,7 +11,7 @@ What do all these equal signs do!?
 
 what about these minus signs
 -----------------------------
-kek ^_^
+kek
 
 
 #actually I think I get it. Those are H1, H2, and this should be
