@@ -11,11 +11,10 @@ What do all these equal signs do!?
 
 what about these minus signs
 -----------------------------
-kek
 
 
-#actually I think I get it. Those are H1, H2, and this should be
-#some H3
+
+#actually I think I get it. Those are H1, H2, and this #some H3
 
 
 >these are block quotes
@@ -24,18 +23,23 @@ kek
 
 markdown translates things into some *basic HTML*
 
--here
--is
--a
--**list**
-
-+that UL didn't work
-+maybe this one will?
-
-1. here
-2. is an ordered
-3. list
++ here
++ is a
++ **list**
 
 
++ that UL didn't work
 
-`this is code, hopefully`
++ maybe this one will?
+
+
+1. they both worked
+2. with spaces
+3. after the proper characters
+
+
+
+`this is code, hopefully
+yes it is code`
+
+#holy heck atom has a markdown preview!i!
